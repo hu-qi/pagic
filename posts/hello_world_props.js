@@ -40,7 +40,7 @@ export default {
                 "pagePath": "posts/front_matter_test.md",
                 "title": "Front matter test",
                 "link": "test_pages/front_matter_test.html",
-                "date": "2021-02-05T09:30:01.000Z",
+                "date": "2021-02-05T09:30:23.000Z",
                 "updated": null,
                 "author": "test",
                 "contributors": [
